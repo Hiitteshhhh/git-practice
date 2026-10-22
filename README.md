@@ -1,1 +1,4 @@
 # git-practice
+# Create a local Git repository on your machine.
+#- Add an initial file (`initial.txt`) with some content and commit it to the `main` branch.
+#Stage a second file (`temp.txt`) but unstage it using `git restore --staged temp.txt`. Then, modify `temp.txt`, stage it again, and unstage it using `git reset        HEAD temp.txt`.
